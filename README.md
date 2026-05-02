@@ -1,6 +1,4 @@
-# COVID-19 Data Analysis and Visualization 
-                                                                                            ## Project Duration: October 2025
-
+# COVID-19 Data Analysis and Visualization                                           ## Project Duration: October 2025
 ## Overview
 This project analyzes the evolution of COVID-19 cases in India from **2020 to 2022**.  
 The goal is to explore trends in confirmed, recovered, and death cases, perform data cleaning and preparation, and generate meaningful visualizations to understand the pandemic’s impact.
