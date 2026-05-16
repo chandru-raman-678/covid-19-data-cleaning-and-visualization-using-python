@@ -1,14 +1,6 @@
 # COVID-19 Data Analysis and Visualization  
-**📅 Project Duration: October 2025**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandru-raman-678/covid-19-data-cleaning-and-visualization-using-python/main/Screenshot%202026-05-02%20172838.png" width="45%">
-  <img src="https://raw.githubusercontent.com/chandru-raman-678/covid-19-data-cleaning-and-visualization-using-python/main/Screenshot%202026-05-02%20174620.png" width="45%">
-</p>
-
-<p align="center"><b>Proof of Project Work & Timeline</b></p>
-
----
+Old GitHub Link: https://github.com/chandru-raman56/COVID-19-Data-Cleaning-and-Visualization-Using-Python
 
 ## Overview  
 This project presents a comprehensive analysis of the evolution of COVID-19 cases in India from **2020 to 2022**, developed during **October 2025**.  
