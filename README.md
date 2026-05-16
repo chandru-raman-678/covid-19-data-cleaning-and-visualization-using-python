@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis and Visualization  
 
-## Project Duration: 1 week
+## Project Duration: 3 Days
 
 Old GitHub Link: https://github.com/chandru-raman56/COVID-19-Data-Cleaning-and-Visualization-Using-Python
 
