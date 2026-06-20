@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis and Visualization
 ## Skills Used: Python (Pandas, NumPy, Matplotlib)
 ---
-### Webpage Insights Video Demonstration: 
+### Webpage Insights Video Demonstration: https://chandru-raman-678.github.io/covid-19-data-cleaning-and-visualization-using-python/
 ---
 It is a 2020 to 2022 covid 19 death cases and affected people, country-wise analysis. Python is used for the entire data cleaning and visualization. In Python, Pandas is used for data cleaning, and NumPy is used for complex mathematical operations.
 
@@ -14,4 +14,5 @@ The Matplotlib library was used here for visualization and implemented analytica
 Analysed most of the people's average COVID cases country-wise, and segregated year-wise affected people and how many beds and hospitals were used for that pandemic season, and what kinds of categories people were affected.
 
 The top countries affected by COVID-19 and life expectancy distribution by country.
+
 ---
